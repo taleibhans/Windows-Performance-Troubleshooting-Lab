@@ -1,0 +1,13 @@
+## Screenshots
+
+### High CPU Usage Before Remediation
+![High CPU Usage](screenshots/high-cpu-before-1.png and high-cpu-before-2.png)
+
+### Resource Monitor During Investigation
+![Resource Monitor](screenshots/resource-monitor.png)
+
+### System Performance After Closing Outlook
+![After Closing Outlook](screenshots/after-outlook-closed.png)
+
+### Final Performance After Closing Unnecessary Applications
+![Final Performance](screenshots/final-performance.png)
